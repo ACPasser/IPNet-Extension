@@ -1,0 +1,4 @@
+[submodule "ipnet-base"]
+	path = ipnet-base
+	url = git@github.com:ACPasser/IPNet.git
+	branch = main
